@@ -5,7 +5,7 @@ module.exports = function (grunt) {
         grunt.log.write("This grunt task is pointless. Just a test.");
     });
 
-    // Project configuration.
+    // Project configuration and testing by Gabriel
     grunt.initConfig({
         concat: {
             options: {
